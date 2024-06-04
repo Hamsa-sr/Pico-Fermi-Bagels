@@ -1,6 +1,6 @@
 # Pico-Fermi-Bagels
 
-#Describe PFB
+
 PFB icon
 PFB (Pico, Fermi, Bagels) is a number guessing game, similar to MasterMind or Jotto. For each guess, you will be told:
 
